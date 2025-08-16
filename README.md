@@ -1,4 +1,4 @@
-# Organization .github Repository
+# Kitakaya .github Repository
 
 This repository provides **default community health files** for all repositories in the organization.
 
